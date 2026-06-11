@@ -28,7 +28,7 @@ A production-ready Python script for sending personalized, spam-resistant cold e
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Mihirkool/your-repo-name.git
+git clone https://github.com/Hamsini2606/your-repo-name.git
 cd your-repo-name
 ```
 
@@ -90,7 +90,7 @@ All tunable settings are at the top of `send_emails.py`:
 
 ```python
 CONTACTS_FILE      = "contacts 3.xlsx"      # Your contacts Excel file
-RESUME_FILE        = "Mihir_Kulkarni_Resume.pdf"
+RESUME_FILE        = "Hamsini_kuppam_Resume.pdf"
 VARIANTS_FILE      = "Opening_Lines.xlsx"   # Opening lines + subject pool
 
 MIN_DELAY          = 35       # Min seconds between emails
@@ -332,6 +332,6 @@ skipped_emails.xlsx
 
 ## 👤 Author
 
-**Mihir Kulkarni**
+**hamsini kuppam**
 B.Tech Computer Engineering · RAIT, D. Y. Patil University · Navi Mumbai
-[mih.kul.work@gmail.com](mailto:mih.kul.work@gmail.com) · [linkedin.com/in/mihir2005](https://linkedin.com/in/mihir2005) · [github.com/Mihirkool](https://github.com/Mihirkool)
+[khamsini@gmail.com](mailto:khamsini2606@gmail.com) · [linkedin.com/in/hamsinikuppam](https://linkedin.com/in/hamsinikuppam) · [github.com/hamsini2606](https://github.com/Mihirkool)
