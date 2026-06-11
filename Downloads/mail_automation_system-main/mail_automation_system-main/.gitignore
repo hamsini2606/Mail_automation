@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+contacts.xlsx
+contacts 2.xlsx
+contacts 3.xlsx
+contacts 4.xlsx
+sent_emails.xlsx
+failed_emails.xlsx
+skipped_emails.xlsx
+*.xlsx
